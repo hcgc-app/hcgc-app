@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="sample-1.xsl"?>
+
+<clasic>
+	<app>
+
+		<version>1</version>
+
+		<chatbox-text>ご予約後のお問合せやご質問等にお応えいたします
+</chatbox-text>
+	</app>
+</clasic>
+
